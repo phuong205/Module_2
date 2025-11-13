@@ -1,5 +1,5 @@
 {
-  "name": "thuchanh2",
+  "name": "bai2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +15,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start:bai1": "react-scripts start src/index.js",
-    "start:bai2": "react-scripts start src/index2.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

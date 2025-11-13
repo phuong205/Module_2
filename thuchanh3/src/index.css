@@ -1,9 +1,16 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #74ABE2, #5563DE);
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px auto;
+  text-align: left;
 }
 
-.card {
-  border-radius: 12px;
+th, td {
+  padding: 8px;
+  border: 1px solid #333;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
 }
