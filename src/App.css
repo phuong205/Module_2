@@ -1,0 +1,21 @@
+.container {
+  width: 500px;
+  margin: 40px auto;
+  font-family: Arial;
+}
+
+input, select {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 8px 15px;
+}
