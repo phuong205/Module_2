@@ -1,0 +1,29 @@
+.container {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+label {
+  margin-top: 10px;
+  display: block;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
+
+button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+}
